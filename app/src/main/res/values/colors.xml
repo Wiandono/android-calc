@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_bg">#626470</color>
+    <color name="screen_text1">#ffffff</color>
+    <color name="screen_text2">#dddddd</color>
+    <color name="keyboard_bg">#f1f1f1</color>
+    <color name="button_bg1">#f1f1f1</color>
+    <color name="button_bg2">#e3e3e3</color>
+    <color name="button_bg3">#f1840f</color>
+    <color name="button_border">#cdcfce</color>
+    <color name="button_text1">#63636f</color>
+    <color name="button_text2">#ffffff</color>
+    <color name="button_hover_bg">#a6dcfe</color>
+    <color name="button_hover_border">#74bce9</color>
+</resources>
